@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # House Price Prediction using Machine Learning
 
 ## Overview
@@ -93,3 +94,7 @@ The model predicts housing prices with good accuracy using regression analysis a
 
 ## Author
 Deepika Reddy Papaiahgari
+=======
+# house-price-prediction
+End-to-end House Price Prediction project using Machine Learning techniques and regression models.
+>>>>>>> 4b83e0c7bea166da5fb18d982912ed01f46e7275
